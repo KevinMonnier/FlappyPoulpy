@@ -1,0 +1,14 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="StreamTexture" id=1]
+load_path = "res://.import/background_flappypoulpy.png-9ca866a31fb13bc7278bc77b6fdb73d6.stex"
+
+[node name="background" type="CanvasLayer"]
+layer = -1
+
+[node name="Sprite" type="Sprite" parent="."]
+texture = SubResource( 1 )
+centered = false
+__meta__ = {
+"_editor_description_": ""
+}
