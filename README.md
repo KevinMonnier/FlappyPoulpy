@@ -13,7 +13,7 @@ Some other assets were designed specifically for this adaptation :
 ## License
 Source code is provided under [MIT](https://choosealicense.com/licenses/mit/)
 
-##Screenshots
+## Screenshots
 
 Menu
 
